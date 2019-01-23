@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="logo">logo</string>
+    <string name="ajouter_nom">Ajouter un nom (n\'importe)</string>
+    <string name="nom_user">Nom d\'utilisateur</string>
+    <string name="password">Mot de passe</string>
+    <string name="login">Se connecter</string>
+</resources>
